@@ -1,10 +1,7 @@
+🚀 Glad to share that I’ve earned the GitHub Copilot Certification (GH-300).
 
-🚀 Happy to share that I’ve earned the GitHub Copilot Certification (GH-300)!
+This certification strengthened my understanding of GitHub Copilot, prompt engineering, responsible AI, and AI-assisted development workflows.
 
-The journey strengthened my understanding of prompt engineering, responsible AI, AI-assisted development, developer productivity, and secure use of GitHub Copilot.
+A valuable milestone in continuing to deepen my expertise in Generative AI and modern AI-driven engineering practices.
 
-More than earning a certification, I’m focused on applying these skills to build better software, improve development workflows, and integrate GenAI effectively into real-world engineering.
-
-Another step forward in my journey across Software Engineering + AI/GenAI. 🚀
-
-#GitHubCopilot #GH300 #GenerativeAI #AIEngineering #SoftwareEngineering #PromptEngineering #ResponsibleAI
+#GitHubCopilot #GH300 #GenerativeAI #AIEngineering #PromptEngineering #ResponsibleAI
