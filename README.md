@@ -1,7 +1,10 @@
-🚀 Glad to share that I’ve earned the GitHub Copilot Certification (GH-300).
+Glad to share that I’ve earned two Microsoft Azure AI certifications:
 
-This certification strengthened my understanding of GitHub Copilot, prompt engineering, responsible AI, and AI-assisted development workflows.
+🏅 Microsoft Certified: Azure AI Fundamentals (AI-901) 
+🏅 Microsoft Certified: Azure AI Apps and Agents Developer Associate (AI-103)
 
-A valuable milestone in continuing to deepen my expertise in Generative AI and modern AI-driven engineering practices.
+These certifications reflect a progression from AI fundamentals and Generative AI concepts to developing and deploying AI applications and agentic solutions with Azure and Microsoft Foundry.
 
-#GitHubCopilot #GH300 #GenerativeAI #AIEngineering #PromptEngineering #ResponsibleAI
+A valuable milestone in continuing to deepen my expertise across Azure AI, Generative AI, and AI Agents.
+
+#MicrosoftCertified #AI901 #AI103 #AzureAI #MicrosoftFoundry #GenerativeAI #AIAgents #AIEngineering
